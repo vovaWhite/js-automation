@@ -2,6 +2,6 @@
 
 //variables
 var name = "Vova"
-var age = "27"
+var age = 27
 
 console.log(name, age)
